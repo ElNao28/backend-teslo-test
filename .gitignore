@@ -4,7 +4,7 @@
 /build
 
 postgres/
-
+static/products/
 .env
 # Logs
 logs
